@@ -28,3 +28,4 @@ This will automatically:
 - Bump version in package.json
 - Generate/update CHANGELOG.md
 - Create a git commit and tag
+# release-project-demo
